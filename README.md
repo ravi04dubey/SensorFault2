@@ -6,3 +6,7 @@
 ## comment 2
 
 ## comment 3 under developer branch
+<<<<<<< HEAD
+=======
+## comment 4 under developer2 branch
+>>>>>>> developer2
